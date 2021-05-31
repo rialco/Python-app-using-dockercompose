@@ -1,0 +1,32 @@
+version: "3.7"
+services:
+  datascience-notebook:
+    build: .
+    volumes:
+      - ./ec2_labfinal/notebook:/home/jovyan/work
+    ports:
+      - 3000:8888
+    container_name: datascience-notebook-container
+    environment:
+      MYSQL_HOST: "mysql"
+      MYSQL_USER: "ricardo"
+      MYSQL_PASSWORD: "secreto"
+      MYSQL_DB: "labfinal"
+      JUPYTER_TOKEN: "easy"
+  mysql:
+    image: mysql:8.0.25
+    restart: always
+    user: "${UID}:${GID}"
+    ports:
+      - 3306:3306
+    volumes:
+      - ./ec2_labfinal/mysql:/var/lib/mysql:rw
+    container_name: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: "secret"
+      MYSQL_DATABASE: "labfinal"
+      MYSQL_USER: "ricardo"
+      MYSQL_PASSWORD: "secreto"
+
+      #UID=${UID} GID=${GID} docker-compose up -d
+      #http://localhost:3000/?token=easy

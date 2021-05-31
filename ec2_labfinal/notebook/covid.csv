@@ -1,0 +1,901 @@
+ciudad,edad,sexo,estado
+Guadalajara de Buga,19,F,Recuperado
+Medellín,34,M,Recuperado
+Medellín,50,F,Recuperado
+Medellín,55,M,Recuperado
+Itagüí,25,M,Recuperado
+Cartagena de Indias,27,F,Recuperado
+Bogotá D.C.,85,F,Recuperado
+Bogotá D.C.,22,F,Recuperado
+Bogotá D.C.,28,F,Recuperado
+Bogotá D.C.,36,F,Recuperado
+Neiva,42,F,Recuperado
+Neiva,74,F,Recuperado
+Palmira,68,F,Recuperado
+Villavicencio,48,M,Recuperado
+Bogotá D.C.,30,F,Recuperado
+Bogotá D.C.,61,F,Recuperado
+Bogotá D.C.,73,F,Recuperado
+Bogotá D.C.,54,M,Recuperado
+Medellín,54,F,Recuperado
+Medellín,26,F,Recuperado
+Rionegro,28,M,Recuperado
+Bogotá D.C.,36,M,Recuperado
+Bogotá D.C.,23,M,Recuperado
+Cali,18,F,Recuperado
+Cartagena de Indias,49,M,Leve
+Cartagena de Indias,30,F,Recuperado
+Dosquebradas,30,F,Recuperado
+Neiva,22,M,Recuperado
+Cúcuta,55,F,Recuperado
+Manizales,48,F,Recuperado
+Medellín,65,M,Recuperado
+Bogotá D.C.,55,M,Recuperado
+Bogotá D.C.,59,M,Recuperado
+Bogotá D.C.,23,F,Recuperado
+Bogotá D.C.,54,M,Recuperado
+Bogotá D.C.,72,M,Recuperado
+Bogotá D.C.,45,F,Recuperado
+Bogotá D.C.,29,M,Recuperado
+Bogotá D.C.,21,M,Recuperado
+Neiva,23,F,Recuperado
+Neiva,79,M,Recuperado
+Neiva,52,F,Recuperado
+Neiva,71,M,Recuperado
+Subachoque,24,F,Recuperado
+Bogotá D.C.,29,M,Recuperado
+Bogotá D.C.,44,F,Leve
+Bogotá D.C.,38,M,Recuperado
+Bogotá D.C.,31,M,Recuperado
+Bogotá D.C.,41,F,Recuperado
+Soacha,67,F,Recuperado
+Bogotá D.C.,24,M,Recuperado
+Bogotá D.C.,29,M,Recuperado
+Bogotá D.C.,62,M,Recuperado
+Bogotá D.C.,42,F,Recuperado
+Bogotá D.C.,58,F,Recuperado
+Bogotá D.C.,34,M,Recuperado
+Cartagena de Indias,37,M,Recuperado
+Barranquilla,27,M,Recuperado
+Floridablanca,20,M,Recuperado
+Barranquilla,24,M,Recuperado
+Cali,21,M,Recuperado
+Cali,32,M,Recuperado
+Bogotá D.C.,26,F,Recuperado
+Bogotá D.C.,31,M,Recuperado
+Bogotá D.C.,64,M,Recuperado
+Bogotá D.C.,40,F,Recuperado
+Bogotá D.C.,21,M,Recuperado
+Bogotá D.C.,72,M,Recuperado
+Bogotá D.C.,22,F,Recuperado
+Cúcuta,37,F,Recuperado
+Cúcuta,54,M,Recuperado
+Cartagena de Indias,22,F,Recuperado
+Bogotá D.C.,54,F,Recuperado
+Bogotá D.C.,18,M,Recuperado
+Armenia,49,F,Recuperado
+Armenia,46,F,Recuperado
+Palmira,18,M,Recuperado
+Palmira,39,F,Recuperado
+Palmira,9,M,Recuperado
+Cali,53,F,Recuperado
+Cali,49,F,Recuperado
+Cali,54,M,Recuperado
+Cali,56,M,Recuperado
+Cali,51,M,Recuperado
+Pereira,42,F,Asintomático
+Cajicá,29,M,Recuperado
+Ibagué,45,M,Recuperado
+Bucaramanga,36,M,Recuperado
+Neiva,39,F,Recuperado
+Cajicá,53,F,Recuperado
+Bogotá D.C.,32,M,Recuperado
+Bogotá D.C.,50,M,Recuperado
+Bogotá D.C.,26,F,Recuperado
+Bogotá D.C.,53,M,Recuperado
+Bogotá D.C.,69,M,Recuperado
+Cartagena de Indias,37,F,Recuperado
+Cartagena de Indias,24,M,Recuperado
+Ibagué,21,M,Recuperado
+Pereira,16,M,Recuperado
+Dosquebradas,21,M,Leve
+Pereira,18,M,Recuperado
+Cartagena de Indias,79,M,Recuperado
+Barranquilla,24,F,Recuperado
+Palmira,48,F,Recuperado
+Medellín,23,F,Recuperado
+Medellín,44,M,Recuperado
+Medellín,56,M,Recuperado
+Bogotá D.C.,57,F,Recuperado
+Bogotá D.C.,54,M,Recuperado
+Bogotá D.C.,62,F,Recuperado
+Bogotá D.C.,60,M,Leve
+Bogotá D.C.,30,M,Leve
+Bogotá D.C.,33,M,Leve
+Bogotá D.C.,49,M,Recuperado
+Bogotá D.C.,29,M,Recuperado
+Cúcuta,40,F,Recuperado
+Cúcuta,28,M,Recuperado
+Cúcuta,50,M,Recuperado
+Armenia,24,M,Recuperado
+Popayán,23,F,Recuperado
+Popayán,61,M,Recuperado
+Viterbo,32,F,Recuperado
+Neiva,38,F,Recuperado
+Cartagena de Indias,76,F,Recuperado
+Barranquilla,47,M,Recuperado
+Barranquilla,52,F,Recuperado
+Soacha,30,F,Recuperado
+Pereira,58,M,Recuperado
+Anapoima,26,F,Recuperado
+Medellín,53,M,Recuperado
+Cali,22,F,Recuperado
+Rionegro,33,M,Recuperado
+La Estrella,51,M,Recuperado
+Medellín,28,M,Recuperado
+Medellín,44,F,Recuperado
+Envigado,37,M,Recuperado
+Bogotá D.C.,54,M,Recuperado
+Bogotá D.C.,54,M,Recuperado
+Bogotá D.C.,30,M,Recuperado
+Medellín,34,M,Recuperado
+Medellín,62,F,Recuperado
+Envigado,35,F,Recuperado
+Medellín,46,M,Recuperado
+Medellín,41,M,Leve
+Soacha,18,F,Recuperado
+Soacha,31,F,Recuperado
+Bogotá D.C.,25,F,Recuperado
+Bogotá D.C.,32,M,Recuperado
+Bogotá D.C.,37,M,Recuperado
+Bogotá D.C.,29,F,Recuperado
+Bogotá D.C.,47,M,Recuperado
+Bogotá D.C.,65,M,Fallecido
+Bogotá D.C.,53,F,Fallecido
+Santa Marta,40,M,Recuperado
+Chía,20,M,Recuperado
+Santa Marta,28,F,Recuperado
+Madrid,88,M,Fallecido
+Bogotá D.C.,32,M,Recuperado
+Bogotá D.C.,34,M,Recuperado
+Bogotá D.C.,42,F,Recuperado
+Bogotá D.C.,22,F,Recuperado
+Bogotá D.C.,25,M,Recuperado
+Bogotá D.C.,28,M,Recuperado
+Bogotá D.C.,67,F,Recuperado
+Bogotá D.C.,32,F,Recuperado
+Bogotá D.C.,45,F,Recuperado
+Bogotá D.C.,46,F,Recuperado
+Bogotá D.C.,25,F,Recuperado
+Bogotá D.C.,42,F,Recuperado
+Bogotá D.C.,45,F,Recuperado
+Bogotá D.C.,21,F,Recuperado
+Bogotá D.C.,27,M,Recuperado
+Bogotá D.C.,65,F,Recuperado
+Bogotá D.C.,70,M,Recuperado
+Ibagué,23,F,Recuperado
+Cartagena de Indias,26,F,Recuperado
+Cartagena de Indias,28,M,Recuperado
+Cartagena de Indias,28,M,Recuperado
+Villa del Rosario,44,F,Recuperado
+Manizales,27,M,Recuperado
+Cúcuta,22,F,Recuperado
+Cali,44,F,Recuperado
+Cartago,48,F,Recuperado
+Palmira,41,F,Recuperado
+Palmira,58,F,Recuperado
+Cali,50,F,Leve
+Cali,74,M,Grave
+Cali,70,F,Fallecido
+Cali,81,F,Recuperado
+Palmira,28,M,Recuperado
+Cali,17,M,Recuperado
+Cali,30,F,Recuperado
+Palmira,53,F,Recuperado
+Pereira,63,F,Recuperado
+Neiva,65,F,Recuperado
+Cartagena de Indias,50,F,Recuperado
+Medellín,58,M,Fallecido
+Guarne,39,M,Recuperado
+Cartagena de Indias,28,M,Recuperado
+Chía,53,F,Recuperado
+Bello,50,F,Recuperado
+Barranquilla,26,M,Recuperado
+Barranquilla,24,F,Recuperado
+Bogotá D.C.,35,M,Recuperado
+Bogotá D.C.,28,M,Recuperado
+Bogotá D.C.,60,F,Recuperado
+Bogotá D.C.,41,M,Recuperado
+Bogotá D.C.,62,M,Recuperado
+Soacha,68,F,Recuperado
+Calarcá,55,M,Recuperado
+Armenia,25,M,Recuperado
+Valledupar,58,F,Recuperado
+Dosquebradas,30,M,Recuperado
+Dosquebradas,56,F,Recuperado
+Dosquebradas,57,F,Recuperado
+Pereira,45,M,Recuperado
+La Dorada,33,M,Recuperado
+Chinchiná,24,F,Recuperado
+Chinchiná,51,M,Recuperado
+Bucaramanga,47,F,Recuperado
+San Andrés,49,F,Recuperado
+Pereira,36,M,Recuperado
+Ibagué,73,F,Recuperado
+Cali,19,M,Recuperado
+Yumbo,22,M,Recuperado
+Cali,41,F,Recuperado
+Cali,28,M,Recuperado
+Yopal,26,M,Recuperado
+Armenia,38,F,Recuperado
+Cali,38,F,Recuperado
+Bogotá D.C.,46,F,Recuperado
+Bogotá D.C.,59,F,Fallecido
+Bogotá D.C.,64,M,Recuperado
+Bogotá D.C.,41,M,Recuperado
+Guatapé,47,M,Recuperado
+Medellín,52,M,Recuperado
+Medellín,32,M,Recuperado
+Rionegro,61,F,Leve
+Bello,41,M,Recuperado
+Bogotá D.C.,41,M,Recuperado
+Bogotá D.C.,58,F,Recuperado
+Bogotá D.C.,49,M,Recuperado
+Bogotá D.C.,40,M,Recuperado
+Bogotá D.C.,52,M,Recuperado
+Bogotá D.C.,72,F,Recuperado
+Bogotá D.C.,28,M,Recuperado
+Bogotá D.C.,26,M,Recuperado
+Bogotá D.C.,30,F,Recuperado
+Bogotá D.C.,38,F,Recuperado
+Bogotá D.C.,76,M,Fallecido
+Bogotá D.C.,55,M,Recuperado
+Bogotá D.C.,32,F,Recuperado
+Bogotá D.C.,34,F,Recuperado
+Bogotá D.C.,45,F,Recuperado
+Bogotá D.C.,19,F,Recuperado
+Bogotá D.C.,57,F,Recuperado
+Bogotá D.C.,80,M,Recuperado
+Bogotá D.C.,26,M,Recuperado
+Bogotá D.C.,35,M,Recuperado
+Bogotá D.C.,41,M,Recuperado
+Bogotá D.C.,61,M,Fallecido
+Medellín,39,M,Recuperado
+Envigado,59,M,Recuperado
+Cajicá,39,F,Recuperado
+Cartagena de Indias,54,M,Recuperado
+Medellín,84,F,Recuperado
+Medellín,21,M,Recuperado
+Chía,37,F,Leve
+Cartagena de Indias,56,M,Recuperado
+Medellín,58,F,Recuperado
+Medellín,21,F,Recuperado
+Medellín,47,F,Recuperado
+Medellín,87,M,Recuperado
+Medellín,30,M,Leve
+Cota,21,F,Recuperado
+Sabaneta,52,M,Recuperado
+Armenia,36,F,Recuperado
+Villamaría,64,M,Recuperado
+Palmira,29,M,Recuperado
+Trujillo,63,F,Recuperado
+Cali,51,M,Recuperado
+Cali,40,M,Fallecido
+Cali,56,M,Recuperado
+Palmira,65,F,Recuperado
+Neiva,42,F,Recuperado
+Soacha,83,F,Fallecido
+Pacho,25,M,Recuperado
+Dosquebradas,29,M,Recuperado
+Santa Marta,49,F,Recuperado
+Retiro,63,F,Recuperado
+Medellín,23,F,Recuperado
+Medellín,43,F,Recuperado
+Medellín,30,F,Recuperado
+Medellín,30,F,Recuperado
+Medellín,42,M,Recuperado
+Envigado,25,F,Recuperado
+Villavicencio,20,M,Recuperado
+Villavicencio,58,M,Recuperado
+Sabaneta,60,F,Recuperado
+Apartadó,29,F,Recuperado
+Villavicencio,29,F,Recuperado
+Itagüí,33,F,Recuperado
+Bello,74,F,Leve
+Villavicencio,30,M,Recuperado
+Rionegro,29,M,Recuperado
+Bogotá D.C.,29,M,Recuperado
+Bogotá D.C.,31,M,Recuperado
+Bogotá D.C.,21,F,Leve
+Bogotá D.C.,59,M,Recuperado
+Bogotá D.C.,28,F,Recuperado
+Bogotá D.C.,40,F,Recuperado
+Bogotá D.C.,18,F,Recuperado
+Ipiales,48,F,Recuperado
+Cúcuta,62,M,Fallecido
+Los Patios,49,M,Recuperado
+Mosquera,18,M,Recuperado
+Cúcuta,37,M,Recuperado
+Ibagué,77,M,Recuperado
+Ibagué,62,F,Recuperado
+Ibagué,56,M,Recuperado
+Ibagué,23,F,Recuperado
+Viterbo,55,F,Recuperado
+Barranquilla,15,F,Recuperado
+Barranquilla,57,M,Recuperado
+Pereira,19,F,Recuperado
+Pereira,61,M,Fallecido
+Valledupar,32,F,Recuperado
+Cartagena de Indias,33,M,Recuperado
+Cartagena de Indias,51,F,Recuperado
+Cali,42,M,Recuperado
+Cali,37,M,Recuperado
+Pereira,38,F,Recuperado
+Cali,79,M,Recuperado
+Cali,23,M,Recuperado
+Cartagena de Indias,59,M,Leve
+Cali,24,M,Recuperado
+La Unión,22,F,Recuperado
+Cartago,56,F,Recuperado
+Cartagena de Indias,34,F,Recuperado
+Neiva,36,M,Recuperado
+Cali,68,M,Recuperado
+Cali,47,F,Recuperado
+Cali,26,F,Recuperado
+Cali,56,M,Recuperado
+Cali,53,F,Recuperado
+Villavicencio,87,M,Recuperado
+Cali,43,F,Recuperado
+Cali,36,F,Recuperado
+Fusagasugá,33,F,Recuperado
+La Calera,54,M,Recuperado
+Villeta,58,M,Recuperado
+Palermo,33,M,Recuperado
+San Pedro,41,M,Recuperado
+Villeta,29,F,Recuperado
+Anapoima,44,F,Recuperado
+Cali,32,M,Recuperado
+Cali,42,M,Recuperado
+Neiva,58,F,Recuperado
+Cali,42,F,Recuperado
+Villavicencio,33,M,Recuperado
+Cali,80,F,Recuperado
+Cali,46,M,Recuperado
+Cali,23,M,Recuperado
+Cali,21,F,Recuperado
+Cali,64,M,Recuperado
+Cali,34,M,Recuperado
+Armenia,28,F,Asintomático
+Calima,34,F,Recuperado
+Funza,41,M,Recuperado
+Santa Marta,61,F,Recuperado
+Manizales,83,F,Recuperado
+Cartagena de Indias,70,M,Recuperado
+Cali,39,M,Recuperado
+Cali,29,M,Leve
+Popayán,28,M,Recuperado
+Tuluá,48,F,Recuperado
+Tuluá,52,M,Recuperado
+Bogotá D.C.,45,M,Recuperado
+Bogotá D.C.,23,F,Recuperado
+Bogotá D.C.,34,F,Recuperado
+Bogotá D.C.,48,F,Recuperado
+Bogotá D.C.,58,F,Recuperado
+Bogotá D.C.,61,M,Recuperado
+Bogotá D.C.,63,M,Recuperado
+Bogotá D.C.,51,M,Recuperado
+Bogotá D.C.,59,M,Recuperado
+Bogotá D.C.,43,F,Recuperado
+Bogotá D.C.,29,M,Recuperado
+Bogotá D.C.,73,M,Fallecido
+Bogotá D.C.,74,F,Recuperado
+Bogotá D.C.,48,M,Recuperado
+Bogotá D.C.,45,F,Recuperado
+Bogotá D.C.,34,M,Recuperado
+Bogotá D.C.,66,M,Recuperado
+Bogotá D.C.,45,M,Recuperado
+Bogotá D.C.,44,F,Recuperado
+Bogotá D.C.,27,F,Recuperado
+Bogotá D.C.,51,F,Recuperado
+Bogotá D.C.,21,M,Recuperado
+Bogotá D.C.,60,F,Recuperado
+Bogotá D.C.,30,F,Recuperado
+Bogotá D.C.,70,F,Recuperado
+Bogotá D.C.,21,M,Recuperado
+Bogotá D.C.,58,M,Recuperado
+Bogotá D.C.,39,M,Recuperado
+Bogotá D.C.,25,M,Recuperado
+Bogotá D.C.,25,F,Recuperado
+Bogotá D.C.,45,M,Recuperado
+Bogotá D.C.,43,F,Recuperado
+Bogotá D.C.,33,F,Recuperado
+Bogotá D.C.,23,F,Recuperado
+Bogotá D.C.,57,F,Recuperado
+Bogotá D.C.,63,M,Recuperado
+Bogotá D.C.,48,M,Recuperado
+Bogotá D.C.,62,M,Recuperado
+Bogotá D.C.,35,M,Recuperado
+Bogotá D.C.,52,F,Recuperado
+Bogotá D.C.,69,F,Recuperado
+Santa Marta,35,M,Recuperado
+Soledad,58,M,Recuperado
+Cartagena de Indias,21,F,Recuperado
+Pereira,50,F,Recuperado
+Pereira,28,F,Recuperado
+Cali,64,M,Recuperado
+Cartagena de Indias,80,F,Fallecido
+Cartagena de Indias,41,F,Recuperado
+Ibagué,54,M,Recuperado
+El Dovio,44,M,Recuperado
+Cartagena de Indias,48,M,Recuperado
+Armenia,38,M,Recuperado
+Palmira,50,F,Recuperado
+Armenia,9,M,Recuperado
+Barranquilla,33,M,Recuperado
+Armenia,25,M,Recuperado
+Cartagena de Indias,19,M,Recuperado
+Cúcuta,38,F,Recuperado
+Medellín,28,F,Recuperado
+La Dorada,36,F,Recuperado
+Cúcuta,28,M,Recuperado
+Bogotá D.C.,73,F,Recuperado
+Bogotá D.C.,43,F,Recuperado
+Soacha,55,F,Recuperado
+Medellín,34,F,Asintomático
+Santana,37,M,Recuperado
+Bogotá D.C.,57,F,Recuperado
+Cota,35,F,Recuperado
+Bogotá D.C.,52,M,Recuperado
+Popayán,40,M,Recuperado
+Medellín,48,M,Recuperado
+Bucaramanga,24,F,Recuperado
+Bello,33,F,Recuperado
+Manizales,32,F,Recuperado
+Bogotá D.C.,26,F,Recuperado
+Cali,50,F,Recuperado
+Palmira,35,F,Recuperado
+Villavicencio,58,M,Recuperado
+Popayán,29,M,Recuperado
+Popayán,45,F,Recuperado
+Armenia,26,M,Recuperado
+Cúcuta,72,M,Recuperado
+Frontino,44,F,Recuperado
+Barranquilla,15,M,Recuperado
+Medellín,19,F,Recuperado
+Medellín,34,M,Recuperado
+Medellín,28,M,Recuperado
+Cúcuta,32,F,Recuperado
+Popayán,33,M,Recuperado
+Popayán,3,F,Recuperado
+Popayán,32,F,Recuperado
+Barranquilla,45,F,Recuperado
+Bogotá D.C.,50,F,Recuperado
+Bogotá D.C.,19,F,Recuperado
+Bogotá D.C.,40,F,Recuperado
+Bogotá D.C.,33,F,Recuperado
+Bogotá D.C.,37,F,Recuperado
+Madrid,41,M,Recuperado
+Bogotá D.C.,30,F,Recuperado
+Bogotá D.C.,84,F,Recuperado
+Bogotá D.C.,61,F,Recuperado
+Bogotá D.C.,57,F,Asintomático
+Bogotá D.C.,42,M,Recuperado
+Bogotá D.C.,50,M,Recuperado
+Bogotá D.C.,51,M,Recuperado
+Bogotá D.C.,39,M,Recuperado
+Bogotá D.C.,30,M,Recuperado
+Bogotá D.C.,37,F,Recuperado
+Cali,22,M,Recuperado
+Tunja,27,M,Recuperado
+Cali,69,M,Recuperado
+Bogotá D.C.,32,M,Recuperado
+Bogotá D.C.,84,M,Fallecido
+Bogotá D.C.,85,M,Recuperado
+Bogotá D.C.,65,M,Recuperado
+Bogotá D.C.,23,F,Recuperado
+Bogotá D.C.,35,M,Recuperado
+Bogotá D.C.,32,F,Recuperado
+Bogotá D.C.,34,M,Recuperado
+Bogotá D.C.,48,M,Recuperado
+Bogotá D.C.,42,F,Recuperado
+Bogotá D.C.,28,F,Recuperado
+Bogotá D.C.,28,M,Recuperado
+Bogotá D.C.,31,M,Recuperado
+Bogotá D.C.,50,M,Recuperado
+Bogotá D.C.,27,M,Recuperado
+Tocancipá,52,M,Recuperado
+Bogotá D.C.,34,F,Recuperado
+Bogotá D.C.,47,F,Recuperado
+Bogotá D.C.,35,M,Recuperado
+Bogotá D.C.,37,M,Recuperado
+Bogotá D.C.,72,M,Fallecido
+Bogotá D.C.,74,F,Recuperado
+Bogotá D.C.,35,M,Leve
+Bogotá D.C.,71,M,Recuperado
+Bogotá D.C.,71,M,Fallecido
+Bogotá D.C.,50,M,Recuperado
+Bogotá D.C.,80,M,Recuperado
+Bogotá D.C.,30,F,Recuperado
+Bogotá D.C.,24,F,Recuperado
+Bogotá D.C.,20,M,Recuperado
+Bogotá D.C.,47,M,Recuperado
+Bogotá D.C.,26,M,Recuperado
+Bogotá D.C.,24,F,Recuperado
+Bogotá D.C.,62,F,Recuperado
+Bogotá D.C.,37,M,Recuperado
+Bogotá D.C.,32,M,Recuperado
+Bogotá D.C.,36,F,Recuperado
+Bogotá D.C.,56,F,Recuperado
+Bogotá D.C.,33,F,Recuperado
+Bogotá D.C.,51,M,Recuperado
+Santa Marta,43,M,Recuperado
+Puerto Colombia,34,F,Recuperado
+Barranquilla,47,F,Recuperado
+Armenia,25,M,Fallecido
+Soledad,26,M,Recuperado
+Calarcá,50,M,Fallecido
+Armenia,24,M,Recuperado
+Santa Marta,34,F,Recuperado
+Manizales,49,F,Recuperado
+Mosquera,81,M,Recuperado
+Cali,37,M,Recuperado
+Cali,57,F,Recuperado
+Cali,30,M,Recuperado
+Cali,51,M,Fallecido
+Palmira,27,F,Recuperado
+Palmira,9,M,Recuperado
+Sahagún,60,F,Recuperado
+Pasto,29,F,Recuperado
+Valledupar,54,M,Recuperado
+Polonuevo,16,F,Recuperado
+Bogotá D.C.,16,M,Recuperado
+Bogotá D.C.,29,M,Recuperado
+Bogotá D.C.,40,M,Recuperado
+Bogotá D.C.,33,M,Recuperado
+Bogotá D.C.,42,M,Recuperado
+Bogotá D.C.,39,M,Recuperado
+Bogotá D.C.,43,M,Recuperado
+Bogotá D.C.,82,F,Recuperado
+Bogotá D.C.,41,M,Recuperado
+Bogotá D.C.,53,M,Recuperado
+Bogotá D.C.,55,F,Recuperado
+Bogotá D.C.,49,M,Fallecido
+Bogotá D.C.,58,F,Recuperado
+Bogotá D.C.,38,F,Recuperado
+Bogotá D.C.,31,F,Recuperado
+Bogotá D.C.,64,F,Recuperado
+Bogotá D.C.,48,F,Fallecido
+Bogotá D.C.,33,F,Recuperado
+Bogotá D.C.,35,M,Recuperado
+Bogotá D.C.,57,F,Fallecido
+Bogotá D.C.,30,M,Recuperado
+Bogotá D.C.,54,M,Recuperado
+Bogotá D.C.,53,F,Recuperado
+Bogotá D.C.,38,F,Recuperado
+Bogotá D.C.,30,M,Recuperado
+Bogotá D.C.,38,M,Recuperado
+Bogotá D.C.,31,F,Recuperado
+Bogotá D.C.,38,M,Recuperado
+Bogotá D.C.,37,M,Recuperado
+Bogotá D.C.,68,F,Recuperado
+Bogotá D.C.,43,M,Recuperado
+Bogotá D.C.,26,M,Recuperado
+Bogotá D.C.,62,M,Recuperado
+Bogotá D.C.,30,M,Recuperado
+Bogotá D.C.,37,M,Recuperado
+Bogotá D.C.,33,F,Recuperado
+Villapinzón,67,F,Recuperado
+Bogotá D.C.,67,F,Fallecido
+Bogotá D.C.,39,M,Recuperado
+Cartago,50,F,Recuperado
+Cali,58,M,Recuperado
+Cali,28,F,Recuperado
+Cali,72,M,Recuperado
+Cali,47,F,Recuperado
+Medellín,27,M,Moderado
+Montebello,27,F,Recuperado
+Sabaneta,52,F,Leve
+Medellín,21,M,Recuperado
+Medellín,24,F,Recuperado
+Chinchiná,32,F,Recuperado
+Montenegro,25,M,Recuperado
+Medellín,59,M,Recuperado
+Santa Rosa de Osos,46,F,Recuperado
+Barranquilla,55,M,Recuperado
+Barranquilla,54,M,Recuperado
+Turbaco,37,F,Recuperado
+Cartagena de Indias,58,M,Recuperado
+Barranquilla,31,M,Recuperado
+Envigado,47,M,Recuperado
+Envigado,51,F,Recuperado
+Medellín,60,M,Recuperado
+Medellín,82,F,Recuperado
+Bello,42,M,Recuperado
+Cali,73,M,Recuperado
+Cali,64,F,Recuperado
+Cali,46,M,Recuperado
+Cali,12,F,Recuperado
+Cali,32,M,Recuperado
+Cali,62,F,Leve
+Palmira,36,M,Fallecido
+Bogotá D.C.,45,M,Recuperado
+Bogotá D.C.,25,M,Recuperado
+Bogotá D.C.,42,F,Recuperado
+Bogotá D.C.,62,F,Recuperado
+Bogotá D.C.,38,M,Recuperado
+Bogotá D.C.,45,F,Recuperado
+Bogotá D.C.,45,F,Recuperado
+Bogotá D.C.,45,M,Recuperado
+Bogotá D.C.,42,F,Recuperado
+Bogotá D.C.,42,F,Recuperado
+Bogotá D.C.,62,M,Leve
+Bogotá D.C.,29,M,Recuperado
+Bogotá D.C.,70,M,Recuperado
+Bogotá D.C.,60,F,Leve
+Bogotá D.C.,50,F,Recuperado
+Bogotá D.C.,29,M,Recuperado
+Bogotá D.C.,69,F,Recuperado
+Bogotá D.C.,52,M,Recuperado
+Bogotá D.C.,58,F,Recuperado
+Bogotá D.C.,46,M,Leve
+Bogotá D.C.,68,M,Recuperado
+Bogotá D.C.,26,F,Leve
+Bogotá D.C.,38,M,Leve
+Bogotá D.C.,25,F,Recuperado
+Bogotá D.C.,22,F,Recuperado
+Bogotá D.C.,33,M,Leve
+Bogotá D.C.,34,F,Recuperado
+Bogotá D.C.,28,F,Recuperado
+Bogotá D.C.,42,F,Recuperado
+Bogotá D.C.,51,M,Recuperado
+Bogotá D.C.,65,M,Recuperado
+Bogotá D.C.,57,M,Recuperado
+Bogotá D.C.,34,M,Recuperado
+Bello,30,M,Asintomático
+Bello,33,F,Recuperado
+Medellín,29,M,Recuperado
+Medellín,61,F,Recuperado
+Medellín,8,F,Recuperado
+Neiva,30,F,Recuperado
+Neiva,26,M,Recuperado
+Cali,21,F,Recuperado
+Valledupar,26,M,Recuperado
+Cartagena de Indias,36,M,Recuperado
+Cartagena de Indias,16,F,Recuperado
+Cartagena de Indias,42,F,Asintomático
+Cartagena de Indias,24,F,Recuperado
+Cartagena de Indias,24,F,Recuperado
+Barranquilla,29,F,Recuperado
+Sincelejo,64,M,Grave
+Villamaría,21,F,Recuperado
+Barranquilla,39,F,Recuperado
+Barranquilla,28,F,Recuperado
+Barranquilla,1,M,Recuperado
+Cartagena de Indias,35,M,Recuperado
+Cartagena de Indias,33,F,Fallecido
+La Ceja,41,M,Recuperado
+San Francisco,24,M,Recuperado
+Envigado,80,M,Fallecido
+Medellín,40,F,Recuperado
+Envigado,24,F,Recuperado
+Medellín,18,F,Recuperado
+Envigado,5,F,Recuperado
+Rionegro,63,F,Recuperado
+Medellín,50,M,Recuperado
+Bucaramanga,42,M,Recuperado
+Bucaramanga,80,F,Leve
+Bucaramanga,58,M,Recuperado
+Floridablanca,24,M,Recuperado
+Montería,46,M,Recuperado
+Oicatá,35,M,Recuperado
+Dosquebradas,72,F,Recuperado
+Pereira,55,F,Recuperado
+Pereira,62,F,Recuperado
+Pereira,6,F,Asintomático
+Pereira,63,M,Recuperado
+Pereira,66,F,Recuperado
+Pereira,54,F,Recuperado
+Pereira,61,M,Recuperado
+Dosquebradas,32,M,Recuperado
+Pereira,47,M,Recuperado
+Arjona,45,F,Recuperado
+Arjona,25,M,Recuperado
+Santana,22,F,Recuperado
+Los Patios,73,F,Recuperado
+Sopó,21,F,Recuperado
+Chía,60,M,Recuperado
+Villapinzón,35,M,Recuperado
+Soacha,65,M,Fallecido
+Neiva,54,F,Recuperado
+Neiva,32,F,Recuperado
+Neiva,64,F,Fallecido
+Palermo,27,F,Recuperado
+Palermo,45,M,Recuperado
+Cartagena de Indias,33,F,Recuperado
+Cartagena de Indias,44,F,Fallecido
+Cartagena de Indias,36,F,Recuperado
+Ciénaga,49,F,Grave
+La Dorada,28,F,Recuperado
+Cali,65,F,Recuperado
+Cali,26,F,Recuperado
+Cali,31,M,Recuperado
+Cali,45,F,Recuperado
+Medellín,68,M,Fallecido
+Medellín,24,M,Asintomático
+Medellín,34,M,Asintomático
+Medellín,37,F,Recuperado
+Medellín,36,M,Recuperado
+La Estrella,25,M,Recuperado
+Envigado,53,m,Recuperado
+Medellín,64,M,Recuperado
+Medellín,19,F,Recuperado
+Medellín,82,M,Recuperado
+Barranquilla,35,F,Recuperado
+Bogotá D.C.,31,M,Recuperado
+Cajicá,50,M,Recuperado
+Bogotá D.C.,48,M,Recuperado
+Bogotá D.C.,32,M,Recuperado
+Bogotá D.C.,26,M,Leve
+Bogotá D.C.,47,F,Recuperado
+Bogotá D.C.,38,M,Recuperado
+Bogotá D.C.,29,F,Recuperado
+Bogotá D.C.,36,F,Recuperado
+Bogotá D.C.,38,M,Recuperado
+Bogotá D.C.,75,F,Fallecido
+Bogotá D.C.,27,M,Recuperado
+Bogotá D.C.,51,F,Recuperado
+Bogotá D.C.,54,F,Recuperado
+Bogotá D.C.,52,M,Recuperado
+Bogotá D.C.,23,M,Recuperado
+Bogotá D.C.,50,M,Recuperado
+Bogotá D.C.,61,M,Recuperado
+Bogotá D.C.,61,F,Recuperado
+Bogotá D.C.,73,M,Recuperado
+Bogotá D.C.,51,F,Recuperado
+Bogotá D.C.,28,M,Recuperado
+Bogotá D.C.,33,F,Recuperado
+Bogotá D.C.,38,M,Recuperado
+Bogotá D.C.,38,F,Recuperado
+Bogotá D.C.,31,M,Recuperado
+Bogotá D.C.,74,M,Recuperado
+Bogotá D.C.,29,M,Recuperado
+Bogotá D.C.,51,F,Recuperado
+Bogotá D.C.,21,F,Recuperado
+Bogotá D.C.,57,M,Recuperado
+Bogotá D.C.,61,F,Recuperado
+Bogotá D.C.,35,M,Recuperado
+Bogotá D.C.,30,M,Recuperado
+Bogotá D.C.,31,F,Recuperado
+Bogotá D.C.,46,M,Recuperado
+Bogotá D.C.,84,M,Recuperado
+Bogotá D.C.,47,F,Recuperado
+Bogotá D.C.,72,F,Fallecido
+Bogotá D.C.,65,M,Recuperado
+Bogotá D.C.,33,F,Recuperado
+Bogotá D.C.,68,F,Recuperado
+Bogotá D.C.,51,M,Recuperado
+Bogotá D.C.,2,M,Recuperado
+Bogotá D.C.,47,F,Recuperado
+Bogotá D.C.,44,M,Recuperado
+Bogotá D.C.,50,M,Fallecido
+Bogotá D.C.,30,F,Asintomático
+Bogotá D.C.,27,F,Recuperado
+Bogotá D.C.,35,M,Recuperado
+Bogotá D.C.,36,M,Recuperado
+Bogotá D.C.,28,M,Recuperado
+Bogotá D.C.,25,F,Recuperado
+Bogotá D.C.,47,F,Recuperado
+Bogotá D.C.,2,F,Recuperado
+Bogotá D.C.,64,F,Recuperado
+Cali,51,M,Recuperado
+Palmira,66,M,Fallecido
+Cartago,88,M,Recuperado
+Cali,26,F,Recuperado
+Palmira,27,M,Recuperado
+Palmira,55,F,Fallecido
+Palmira,17,M,Asintomático
+Cali,22,M,Asintomático
+Cartago,83,M,Leve
+Palmira,63,F,Recuperado
+Cartago,69,F,Recuperado
+Cali,25,F,Recuperado
+Cali,44,M,Leve
+Cali,54,M,Grave
+Cali,20,F,Recuperado
+Cali,28,M,Recuperado
+Cali,26,F,Recuperado
+Cali,26,M,Recuperado
+Cali,32,M,Asintomático
+Cali,30,F,Recuperado
+San Andrés de Tumaco,38,M,Leve
+Pasto,0,M,Recuperado
+Valledupar,76,F,Recuperado
+Valledupar,46,M,Recuperado
+Valledupar,41,M,Recuperado
+Valledupar,38,M,Recuperado
+Valledupar,31,M,Recuperado
+Valledupar,27,M,Recuperado
+Valledupar,40,M,Recuperado
+Barranquilla,21,M,Recuperado
+Riohacha,26,M,Recuperado
+Santa Marta,42,M,Recuperado
+Santa Marta,70,M,Recuperado
+Barranquilla,43,M,Recuperado
+Barranquilla,57,F,Recuperado
+Barranquilla,32,F,Recuperado
+Barranquilla,44,M,Recuperado
+Barranquilla,24,M,Recuperado
+Barranquilla,25,M,Recuperado
+Barranquilla,77,M,Fallecido
+Cartagena de Indias,30,F,Recuperado
+Cartagena de Indias,55,F,Recuperado
+Sabaneta,30,F,Recuperado
+Medellín,59,M,Recuperado
+Medellín,67,F,Leve
+Medellín,66,M,Recuperado
+Medellín,56,F,Recuperado
+Chía,67,M,Leve
+Cota,57,M,Recuperado
+Cota,19,M,Recuperado
+Cota,50,F,Recuperado
+Cota,57,M,Recuperado
+Cajicá,42,F,Recuperado
+Cota,25,F,Recuperado
+Zipaquirá,50,F,Asintomático
+Cajicá,81,F,Fallecido
+Villavicencio,47,F,Recuperado
+Villavicencio,31,F,Recuperado
+Villavicencio,29,F,Recuperado
+Cúcuta,29,F,Recuperado
+Puerto Santander,42,M,Recuperado
+Cúcuta,26,M,Recuperado
+Bucaramanga,50,F,Recuperado
+Bucaramanga,25,M,Recuperado
+Floridablanca,34,M,Recuperado
+Neiva,57,M,Recuperado
+Neiva,36,M,Recuperado
+Neiva,33,F,Recuperado
+Pereira,61,F,Recuperado
+Pereira,18,F,Recuperado
+Pereira,9,M,Recuperado
+Pereira,30,F,Recuperado
+Dosquebradas,32,F,Recuperado
+Pereira,32,M,Recuperado
+Tunja,22,F,Recuperado
+Togüí,84,M,Fallecido
+Bogotá D.C.,70,F,Leve
+Bogotá D.C.,49,M,Recuperado
+Bogotá D.C.,28,M,Recuperado
+Bogotá D.C.,33,M,Recuperado
+Bogotá D.C.,69,M,Recuperado
+Bogotá D.C.,2,F,Recuperado
+Bogotá D.C.,39,F,Recuperado
+Bogotá D.C.,50,M,Recuperado
+Bogotá D.C.,15,F,Recuperado
+Bogotá D.C.,30,M,Recuperado
+Bogotá D.C.,27,M,Recuperado
+Bogotá D.C.,32,M,Recuperado
+Bogotá D.C.,58,F,Recuperado
+Bogotá D.C.,56,F,Recuperado
+Bogotá D.C.,13,M,Recuperado
+Bogotá D.C.,66,F,Fallecido
+Bogotá D.C.,45,M,Recuperado
+Bogotá D.C.,40,F,Recuperado
+Bogotá D.C.,55,F,Recuperado
+Bogotá D.C.,18,M,Recuperado
+Bogotá D.C.,56,M,Recuperado
+Bogotá D.C.,65,F,Fallecido
+Bogotá D.C.,36,M,Recuperado
+Bogotá D.C.,35,M,Recuperado
+Bogotá D.C.,31,M,Recuperado
+Bogotá D.C.,49,M,Fallecido
+Bogotá D.C.,43,F,Recuperado
+Bogotá D.C.,28,F,Recuperado
+Bogotá D.C.,32,M,Recuperado
+Bogotá D.C.,41,M,Recuperado
+Bogotá D.C.,38,F,Recuperado
+Bogotá D.C.,18,M,Recuperado
+Bogotá D.C.,35,M,Recuperado
+Bogotá D.C.,31,F,Recuperado
+Bogotá D.C.,20,F,Recuperado
+Bogotá D.C.,2,M,Recuperado

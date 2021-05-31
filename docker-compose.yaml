@@ -27,6 +27,18 @@ services:
       MYSQL_DATABASE: "labfinal"
       MYSQL_USER: "ricardo"
       MYSQL_PASSWORD: "secreto"
+  dash:
+    build: ./dash_dockerfile/
+    volumes:
+      - ./ec2_labfinal/dash:/usr/src/app
+    ports:
+      - 4550:4550
+    container_name: dash
+    environment:
+      MYSQL_HOST: "mysql"
+      MYSQL_USER: "ricardo"
+      MYSQL_PASSWORD: "secreto"
+      MYSQL_DB: "labfinal"
 
       #UID=${UID} GID=${GID} docker-compose up -d
       #http://localhost:3000/?token=easy
